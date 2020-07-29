@@ -155,11 +155,9 @@ p{
 }
 
 @media (max-width: 991px ){
-    #navbarSupportedContent{
-        text-align: left;
-    }
+   
 
-    #title{
+    #title .row{
         text-align: center;
     }
 
